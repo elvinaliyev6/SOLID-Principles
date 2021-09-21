@@ -5,8 +5,6 @@
  */
 package openclosedprinciple;
 
-import java.security.InvalidParameterException;
-
 public class Calculator {
 
     public void calculate(CalculatorOperation operation) {

@@ -3,14 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Width.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Rectangle.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Square.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Length.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Area.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/main/InterfaceSeggration.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Radius.java</file>
-            <file>file:/D:/NetBeansProjects/SOLID%20Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Circle.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Area.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/main/InterfaceSeggration.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Circle.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/interfaces/Radius.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Rectangle.java</file>
+            <file>file:/D:/SOLID-Principles/InterfaceSegregationPrinciple/src/interfacesegregationprinciple/classes/Square.java</file>
         </group>
     </open-files>
 </project-private>
